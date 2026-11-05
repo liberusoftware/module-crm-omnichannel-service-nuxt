@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-omnichannel-service-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-omnichannel-service",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-omnichannel-service-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/omnichannel-service.md",
+  "presentationPlan": "projects/crm/nuxt/omnichannel-service.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
